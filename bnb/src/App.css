@@ -109,6 +109,15 @@ a {
   transition: 0.3s all ease-in-out;
 }
 
+
+  .submit-btn {
+    color: purple;
+  }
+
+
+
+
+
 .right-arrow {
   right: 140px;
 }

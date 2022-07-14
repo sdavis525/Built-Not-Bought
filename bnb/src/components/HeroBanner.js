@@ -17,8 +17,8 @@ const HeroBanner = () => (
     <a href="#workouts" style={{ marginTop: '45px', textDecoration: 'none', width: '200px', textAlign: 'center', background: '#8A2BE2', padding: '14px', fontSize: '22px', textTransform: 'none', color: '#FFEBCD', borderRadius: '4px' }}>Explore Workouts</a>
    
     </Stack>
-    <Typography fontWeight={600} color="#FFEBCD" sx={{ opacity: '0.1', display: { lg: 'block', xs: 'none' }, fontSize: '200px' }}>
-        BNB
+    <Typography fontFamily='Brush Script MT' fontWeight={600}  color="white" sx={{ marginTop: '65px', opacity: '0.1', display: { lg: 'block', xs: 'none' }, fontSize: '100px' }}>
+        "Change The Way You Look At Challenges and You Will Prevail"
     </Typography>
     <img src={HeroBannerImage} alt="hero-banner" className="hero-banner-img" />
 </Box>
