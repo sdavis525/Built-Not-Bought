@@ -7,7 +7,7 @@ const HeroBanner = () => (
 <Box sx={{ mt: { lg: '212px', xs: '70px' }, ml: { sm: '50px' } }} position="relative" p="20px">
   
     <Typography color="#FFEBCD" fontWeight={700} sx={{ fontSize: { lg: '44px', xs: '40px' } }} mb="23px" mt="30px">
-    All Growth No Regret
+    All Growth 🏋🏽‍♀️ No Regret
  
     </Typography>
     <Typography fontSize="22px" fontFamily="Alegreya" color="#FFEBCD" lineHeight="35px">
