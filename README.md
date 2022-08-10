@@ -18,7 +18,7 @@
 
 
 
-### ✨ [Demo] https://sdavis525.github.io/
+### ✨ [Demo] https://sdavis525.github.io/Built-Not-Bought/
 
 ## Install
 
