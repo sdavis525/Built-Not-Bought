@@ -6,7 +6,8 @@
   </a>
 </p>
 
-> Built not bought is a workout website that was built for people who want better but just need that extra little push, guidance and motivation. 
+> Built not bought is a workout website that was built for people who want better but just need that extra little push, guidance and motivation. Our motivation for development was to build a website for people who go against the grain of society. The ones who know money can buy temporary happiness but the real lasting effects come from your own personal life changes and work. Built with React app and material UI deployed with GH Pages. 
+
 
 
 
@@ -17,7 +18,7 @@
 
 
 
-### ✨ [Demo] (https://sdavis525.github.io/)
+### ✨ [Demo] https://sdavis525.github.io/
 
 ## Install
 
